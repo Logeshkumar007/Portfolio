@@ -1,3 +1,3 @@
 # Portfolio
-a portfolio of mine
-I uploaded my Project.Please check and rectify it
+A React Project that reflects as a portfolio of logesh
+
